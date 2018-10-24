@@ -113,4 +113,4 @@ msg.channel.send(`**Bot InviteURL : ** https://discordapp.com/oauth2/authorize?c
  
  
    
-client.login('NTA0MTA5MjI5NjIwMTk5NDI0.DrGAOw.287bgfF_GBWd8DFfgbER1ihTW-s')
+client.login('NTA0NjY2MTQ0ODQ2NjQzMjMw.DrIWvQ.3Ic0KvDXClclhcdeKpZBo1NKwq8')
