@@ -581,4 +581,4 @@ client.on('message', async message => {
 
 
         
-client.login("NTAxMDg1MjUyODk5MzA3NTIw.Dq706A.vU0OrTgft5NTVSFb6CySxrck60I");
+client.login("NTAwODA0MTA2OTQ4OTY4NDU4.DrF7aQ.iGpOt1TVUUyRFUvx0Tef_ME2kz4");
